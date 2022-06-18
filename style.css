@@ -1,0 +1,72 @@
+h1 {
+    background-color: greenyellow;
+    color: purple;
+    text-align: center;
+    font-size: 60px;
+    font-family: sans-serif;
+}
+
+div {
+    text-align: center;
+}
+
+a {
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 26px;
+}
+
+e {
+    font-size: 26px;
+}
+
+img {
+    height: 400px;
+    width: auto;
+}
+
+a.cinna {
+    background-color: rgb(179, 119, 62);
+}
+
+a.potato {
+    background-color: yellow;
+}
+
+a.salmon {
+    background-color: salmon;
+}
+
+h2 {
+    background-color: aqua;
+    width: fit-content;
+}
+
+h3 {
+    background-color: rgb(209, 116, 255);
+}
+
+ol .odd {
+    background-color: rgb(218, 214, 214);
+}
+
+ol .even {
+    background-color: rgb(168, 167, 167);
+}
+
+ul .odd {
+    background-color: rgb(187, 245, 226);
+}
+
+ul .even {
+    background-color: rgb(119, 200, 211);
+}
+
+li{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+body {
+    background-color: rgb(180, 255, 180);
+}
